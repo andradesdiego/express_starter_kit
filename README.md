@@ -19,7 +19,7 @@ Make sure you read the FAQ for more details and info.
 ```sh
 # Clone the project
 git clone git@github.com:andradesdiego/express_starter_kit.git
-cd express-babel
+cd express_starter_kit
 
 # Make it your own
 rm -rf .git && git init && npm init
